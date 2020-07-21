@@ -1,0 +1,101 @@
+1. You are animating an assets from frame 1 to frame 24 on the timeline. On frame 25, you need the assets to desappear in the published document. What do you do to enable this behaviour?
+- Insert a blank keyframe at frame 25
+- Change the layer in question to a guide layer
+- Set layer visibility to off
+- Change the layer to mask layer
+
+2. If you where in need of using a custom component, which Animate document formats whould you be able to choose from?
+- HTML5 Cavans and WebGL
+- ActionScript 3.0 and WebGL
+- ActionScript 3.0 and HTML5
+- WebGL and Virtual Reality
+
+3. When drawing artwork in Animate, you find that a bit of variance in your strokes whould benefit the drawing. How is this most easily archived?
+-by choosing Advanced Stroke from the Proprieties panel for your selected drawing tool-before any strokes are created
+-by selecting a stroke and then selecting Modify > Shape > Advanced Smooth
+-by using a staggered stroke style
+-by applying a variable width profile to your strokes
+
+4. When importing a sound file into your Animate project, where does the sound file always appear?
+-in the project library and upon the Stage
+-in the project library
+-upon the Stage
+-in the currently selected frame
+
+5. In your timeline, you see a broken arrow between two keyframes. What might this indicate?
+-There is something wrong with the tween type you have chosen in considerartion of the content of each keyframe.
+-There is something wrong with content in one of the keyframes causing a broken tween.
+-Your assets must be converted to symbols instances.
+-This is only a visual warning and you do not need to worry about it.
+
+6. What would you use to sample colors from existing content in Animate?
+-Swap Colors command
+-Adobe Capture
+-CC Libraries panel
+-Eyedropper tool
+
+7. In order to interact with any item in the project library, what must be done prior to writing any code?
+-The item must be given an Instance Name.
+-The item must be given a Linkage ID.
+-The item must be given a CSS ID.
+-The item must be given a CSS class name.
+
+8. When would you use the Paste in Place comand rather Paste?
+-to paste the asset in the same folder group from which it was copied or cut
+-to paste the asset in the same x/y position from which it was copied or cut
+-to paste the asset in the same 3D space from which it was copied or cut
+-to paste the asset in the same layer from which it was copied or cut
+
+9. While doing research in extending Animate for additional taks, you come across the term JSFL. What does this term mean?
+-Flash Player JavaScript
+-J Script for Flash
+-JavaScript for Flash
+-JavaScript for Flash Components
+
+10. When drawing artwork in Animate, you find that a bit of variance in your strokes would benefit the drawing. How is this most easly archived?
+-by choosing Advanced Stroke from the Proprieties panel for your selected drawing tool-before any strokes are created
+-by selecting a stroke and then selecting Modify > Shape > Advanced Smooth
+-by using a staggered stroke style
+-by applying a variable width profile to your strokes
+
+11. You have been working on an HTML5 Cavans document and all the assets are in place. This will be an interactive project with lots of code, and you need to disable Advanced Layers in order to simplify the necessary code to write. How do you go about disabling Advanced Layers?
+-Open the Documents Settings dialog box and clear the Use Advanced Layers option.
+-Within the project timeline, locate the Advanced Layers toggle and switch it to the off position.
+-Ensure that the document properties are being displayed in the properties panel and clear the Advanced Layers option
+-HTML5 Cavans documents require Advanced Layers to be enable. You can switch between layer models only in ActionScript-based document types.
+
+12. One way to edit a symbol is to double-click it in the project library. What is another way to edit a symbol?
+-Select the symbol in the project library and click Modify > Symbol > Edit Symbol
+-Select an instance of the symbol and select Edit Symbol in the Properties panel
+-Select a symbol instance of the Stage and click Modify > Symbol > Edit Symbol
+-Double-click an instance of the symbol on the Stage
+
+13. When creating a new text object with the Text tool for eventual manipulation through code, what should you choose for the text type?
+-Web Font Text
+-Static Text
+-Dynamic Text
+-Interactive Text
+
+14. You need to add a filter to all assets within a specific layer. The document has not had any of its settings modified in any way. How should you go about this?
+-Select the layer. In the Properties panel, click Add Filter and select your layer filter
+-Right-click the layer and select Proties. Then selct a filter from the Layer Properties. then select a filter from the Layer properties dialog box
+-You cannot add filters to a layer, as filters are avaliable only for symbol instances
+-Right-click the layer. In the menu that appears, click Add Filter and select your filter from the dialog box that appears
+
+15. In an HTML5 Cavans, how would you go about easily centering the Stage within the resukting HTML document?
+-After publishing your project, add the appropiate CSS to the resulting HTML document in order to center the Cavans element
+-In the Document Settings dialog box, on the HTML/JS tab, select Center Both from the Center drop-down menu
+-In the Publish Settings dialog box, on the anchor selection grid, choose to anchor to the horizontal and vertical center
+-In the Publish Settings dialog box, on the Basic tab, select Center Stage
+
+16. What method must you invoke upon the Stage before using mouseover events in an HTML5 Cavans project?
+-enableMouseMove()
+-enableMouse("over")
+-enableTouch()
+-enableMouseOver()
+
+17. When it comes to accessibility concerns within an Animate project, is it possible to add a specific tabbing index to visual elements on the Stage?
+-Yes, if you are working within an JavaScript-based document type, you can set the tabbing index for certein object types through the Properties panel
+-No, projects created with Animate are fairly inaccessible
+-Yes, you can set the tabbing index for certain object types through the Accessibility panel under Window > Accessibility
+-Yes, if you are working within an ActionScript-based document type, you can set the tabbing index for certain object types through the Properties panel
